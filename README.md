@@ -1,6 +1,7 @@
 ### • 👋 Hi there, I'm Akshith Mogulluri and welcome to my GitHub.
 ### • 🔭 I’m Intreseted in Machine Learning and Data Analysis.
-### • 🌱 I’m currently learning Spark, NoSQL, Hadoop and practicing my skill set on Data Analysis and Machine Learning.
+### • 🌱 I’m currently learning Spark, NoSQL, Hadoop and practicing my skill set on Python, SQL and Data Visualization.
+### • 👯 I’m happly to collaborate.
 ### • 📫 How to reach me: mgulluri@memphis.edu
 <!--
 **akshith-mogulluri/akshith-mogulluri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
